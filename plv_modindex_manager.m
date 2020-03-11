@@ -6,7 +6,7 @@
 % This program loads and preprocesses all inputs necessary to run 
 % the core function plv_modindex.m (Gonzalez et al. (2020) 
 % "Communication through coherence by means of cross-frequency coupling"
-% doi: 123document.of.identification).
+% https://doi.org/10.1101/2020.03.09.984203
 % 
 % We provide an example in the file 'Example_plv_modindex.mat', which contains
 % intracranial recordings of a representative animal during REM sleep. The
