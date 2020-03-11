@@ -5,7 +5,7 @@
 % 
 % This code applies the method described in Gonzalez et al. (2020) 
 % "Communication through coherence by means of cross-frequency coupling".
-% doi: 123document.of.identification
+% https://doi.org/10.1101/2020.03.09.984203
 %
 % [out] = plv_modindex(fast_phase1,fast_phase2,slow_phase,numbin) 
 %
